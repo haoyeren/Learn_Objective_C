@@ -8,27 +8,27 @@
 
 1.  从git库中删除不需要纳入版本管理的文件
 
-~~~
-$ git rm --cached [YourProjectName].xcodeproj/project.xcworkspace/xcuserdata/[YourUsername].xcuserdatad/UserInterfaceState.xcuserstate
-~~~
+    ~~~
+    $ git rm --cached [YourProjectName].xcodeproj/project.xcworkspace/xcuserdata/[YourUsername].xcuserdatad/UserInterfaceState.xcuserstate
+    ~~~
 
 2.  把删除提交
 
-~~~
-$ git commit -m "..."
-~~~
+    ~~~
+    $ git commit -m "..."
+    ~~~
 
 3.  确定`.gitignore`文件中至少有以下几条规则
 
-~~~
-*.xcuserstate  
-project.xcworkspace  
-xcuserdata  
-UserInterfaceState.xcuserstate  
-project.xcworkspace/  
-xcuserdata/  
-UserInterface.xcuserstate 
-~~~
+    ~~~
+    *.xcuserstate  
+    project.xcworkspace  
+    xcuserdata  
+    UserInterfaceState.xcuserstate  
+    project.xcworkspace/  
+    xcuserdata/  
+    UserInterface.xcuserstate 
+    ~~~
 
 ## 版权
 
