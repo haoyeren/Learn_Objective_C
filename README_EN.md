@@ -30,6 +30,3 @@ There are many files be created when create a project with Xcode, then them will
     UserInterface.xcuserstate 
     ~~~
 
-## LICENSE
-
-GNU General Public License v3.0
