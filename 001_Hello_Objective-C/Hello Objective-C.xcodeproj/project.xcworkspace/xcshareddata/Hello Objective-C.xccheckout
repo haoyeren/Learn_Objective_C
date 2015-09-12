@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>93D5F2D1-D5C8-4881-AFA0-A979113DD55B</string>
 	<key>IDESourceControlProjectName</key>
-	<string>Hello Objective-C</string>
+	<string>project</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>77CD88D161A3497933C1AF81BAD7EB37C107DED6</key>
 		<string>https://github.com/haoyeren/Learn_Objective_C.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>001_Hello_Objective-C/Hello Objective-C.xcodeproj</string>
+	<string>001_Hello_Objective-C/Hello Objective-C.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>77CD88D161A3497933C1AF81BAD7EB37C107DED6</key>
